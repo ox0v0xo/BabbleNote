@@ -1,2 +1,3 @@
 # BabbleNote
-Babble Note
+
+> Note & Essays
